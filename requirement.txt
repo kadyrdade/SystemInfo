@@ -1,0 +1,5 @@
+pyfiglet
+socket
+uuid
+requests
+platform
